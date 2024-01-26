@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maroti Shelke</h1>
+<h1 align="center">Hey 👋, I'm Maroti Shelke</h1>
 <h3 align="center">A passionate data scientist from India with 1.6 years of experience, specializing in machine learning and data analysis.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Marotishelke/Marotishelke/blob/main/Images/coder.gif">
